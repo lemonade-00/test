@@ -6,7 +6,7 @@
     <script>
         $.getJSON('./107體育.json', function (result) {
             $.each(result, function (i, field) {
-                $("div").append(field + " ");
+                $("div").append(field["name"] + " ");
 
             })
         })
