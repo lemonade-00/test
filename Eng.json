@@ -1,0 +1,1422 @@
+[
+    {
+        "_id": "63a6f7b93e98e738d0364551",
+        "Name": "奇幻文學 (進階英文-中高級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "206,207",
+        "Code": "B9D023KU",
+        "Teacher": "鍾正倫(Cheng-Lun Chung)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364552",
+        "Name": "英語聽講 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "108,109",
+        "Code": "B9D023L6",
+        "Teacher": "林綠芳(Lu-Fang Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364553",
+        "Name": "觀光英語 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "203,204",
+        "Code": "B9D023L2",
+        "Teacher": "陳麗芳(CHEN, LI-FANG)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364554",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B9D01968",
+        "Teacher": "連族合()",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364555",
+        "Name": "英文精進",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "203,204",
+        "Code": "B9D03TVQ",
+        "Teacher": "連族合()",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364556",
+        "Name": "看電影學英文 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "106,107",
+        "Code": "B9D023KZ",
+        "Teacher": "林澄億(Chen-Yi Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364557",
+        "Name": "看電影學英文 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "108,109",
+        "Code": "B9D023KZ",
+        "Teacher": "林澄億(Chen-Yi Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364558",
+        "Name": "英文文法與習作 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "106,107",
+        "Code": "B9D023KO",
+        "Teacher": "林甫雯(Fu-Wen Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364559",
+        "Name": "英文文法與習作 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "108,109",
+        "Code": "B9D023KO",
+        "Teacher": "林甫雯(Fu-Wen Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036455a",
+        "Name": "新聞英文（進階英文-中級）",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "103,104",
+        "Code": "B9D023RC",
+        "Teacher": "林澄億(Chen-Yi Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036455b",
+        "Name": "英語會話 (進階英文-中高級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "406,407",
+        "Code": "B9D023KW",
+        "Teacher": "丹尼爾伍德(Daniel Wood)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036455c",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D01968",
+        "Teacher": "徐筱玲(Hsiao-Ling Hsu)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036455d",
+        "Name": "商用實務英文 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "101,102",
+        "Code": "B9D023KP",
+        "Teacher": "林楚淇(Chu-chi Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036455e",
+        "Name": "英語發音（進階英文-中級）",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "403,404",
+        "Code": "B9D023X7",
+        "Teacher": "王鳳敏(Wang Fengmin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036455f",
+        "Name": "流行文化與英語學習(進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "106,107",
+        "Code": "B9D023X6",
+        "Teacher": "鍾正倫(Cheng-Lun Chung)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364560",
+        "Name": "新聞英文（進階英文-中級）",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "303,304",
+        "Code": "B9D023RC",
+        "Teacher": "林澄億(Chen-Yi Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364561",
+        "Name": "經典神話與藝術（進階英文-中級）",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "106,107",
+        "Code": "B9D023Z3",
+        "Teacher": "薛梅(May Hsueh)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364562",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B9D01968",
+        "Teacher": "李天苓(Andrianna Li)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364563",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D01968",
+        "Teacher": "薛梅(May Hsueh)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364564",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B9D01968",
+        "Teacher": "闕郁軒(Yu-Hsuan Chueh)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364565",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B9D01968",
+        "Teacher": "丹尼爾伍德(Daniel Wood)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364566",
+        "Name": "看短片學英文 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "203,204",
+        "Code": "B9D023L8",
+        "Teacher": "李天苓(Andrianna Li)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364567",
+        "Name": "職場英語 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "203,204",
+        "Code": "B9D023L0",
+        "Teacher": "黃碧霞(Bih-shia Huang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364568",
+        "Name": "觀光英語 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "503,504",
+        "Code": "B9D023L2",
+        "Teacher": "闕郁軒(Yu-Hsuan Chueh)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364569",
+        "Name": "英文文法與閱讀(進階英文-中高級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "303,304",
+        "Code": "B9D024DN",
+        "Teacher": "林甫雯(Fu-Wen Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036456a",
+        "Name": "英文文法 (進階英文-初級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "203,204",
+        "Code": "B9D023L3",
+        "Teacher": "林雅淑()",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036456b",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B9D01968",
+        "Teacher": "徐筱玲(Hsiao-Ling Hsu)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036456c",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B9D01968",
+        "Teacher": "丹尼爾伍德(Daniel Wood)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036456d",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B9D01968",
+        "Teacher": "陳麗芳(CHEN, LI-FANG)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036456e",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D01968",
+        "Teacher": "黃馨週(Hsin-Chou Huang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036456f",
+        "Name": "英文書信 (進階英文-中高級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "403,404",
+        "Code": "B9D023KY",
+        "Teacher": "丹尼爾伍德(Daniel Wood)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364570",
+        "Name": "英文文法 (進階英文-初級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "503,504",
+        "Code": "B9D023L3",
+        "Teacher": "龔育緯(Kung, Yuh-wei )",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364571",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B9D01968",
+        "Teacher": "龔育緯(Kung, Yuh-wei )",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364572",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B9D01968",
+        "Teacher": "徐健達(Hsu, Chien-Ta)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364573",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B9D01968",
+        "Teacher": "連族合()",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364574",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B9D01968",
+        "Teacher": "鍾正倫(Cheng-Lun Chung)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364575",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B9D01968",
+        "Teacher": "吳婷君(Ting-chun Wu)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364576",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B9D01968",
+        "Teacher": "周利華(Li-Hua Chou)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364577",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D01968",
+        "Teacher": "鍾正倫(Cheng-Lun Chung)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364578",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D01968",
+        "Teacher": "林綠芳(Lu-Fang Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364579",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B9D01968",
+        "Teacher": "林澄億(Chen-Yi Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036457a",
+        "Name": "說著英語去旅行(進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "506,507",
+        "Code": "B9D023YR",
+        "Teacher": "吳婷君(Ting-chun Wu)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036457b",
+        "Name": "英文精進",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "206,207",
+        "Code": "B9D03TVQ",
+        "Teacher": "張家瑋(will)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036457c",
+        "Name": "英文精進",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D03TVQ",
+        "Teacher": "林楚淇(Chu-chi Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036457d",
+        "Name": "英語會話 (進階英文-中高級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "403,404",
+        "Code": "B9D023KW",
+        "Teacher": "蔣湧濤(Steve Chiang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036457e",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D01968",
+        "Teacher": "林甫雯(Fu-Wen Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036457f",
+        "Name": "電影與文化 (進階英文-中高級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "306,307",
+        "Code": "B9D023KS",
+        "Teacher": "鍾正倫(Cheng-Lun Chung)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364580",
+        "Name": "英語演說 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "203,204",
+        "Code": "B9D023KV",
+        "Teacher": "丹尼爾伍德(Daniel Wood)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364581",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B9D01968",
+        "Teacher": "徐筱玲(Hsiao-Ling Hsu)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364582",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B9D01968",
+        "Teacher": "林澄億(Chen-Yi Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364583",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B9D01968",
+        "Teacher": "徐健達(Hsu, Chien-Ta)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364584",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D01968",
+        "Teacher": "周利華(Li-Hua Chou)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364585",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B9D01968",
+        "Teacher": "鍾正倫(Cheng-Lun Chung)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364586",
+        "Name": "英語會話 (進階英文-中高級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "106,107",
+        "Code": "B9D023KW",
+        "Teacher": "丹尼爾伍德(Daniel Wood)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364587",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B9D01968",
+        "Teacher": "陳國華(KUO-HUA CHEN)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364588",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D01968",
+        "Teacher": "黃如瑄(Ju-Chuan Huang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364589",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B9D01968",
+        "Teacher": "林甫雯(Fu-Wen Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036458a",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D01968",
+        "Teacher": "蔣湧濤(Steve Chiang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036458b",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B9D01968",
+        "Teacher": "黃碧霞(Bih-shia Huang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036458c",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B9D01968",
+        "Teacher": "林雅淑()",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036458d",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B9D01968",
+        "Teacher": "林澄億(Chen-Yi Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036458e",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B9D01968",
+        "Teacher": "徐筱玲(Hsiao-Ling Hsu)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036458f",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B9D01968",
+        "Teacher": "連族合()",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364590",
+        "Name": "英文聽力與閱讀(進階英文-初級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "208,209",
+        "Code": "B9D023L4",
+        "Teacher": "陳亞玲(Ya-lin Chen)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364591",
+        "Name": "英文精進",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "403,404",
+        "Code": "B9D03TVQ",
+        "Teacher": "徐筱玲(Hsiao-Ling Hsu)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364592",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D01968",
+        "Teacher": "丹尼爾伍德(Daniel Wood)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364593",
+        "Name": "英文聽力與閱讀 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "208,209",
+        "Code": "B9D023KN",
+        "Teacher": "張家瑋(will)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364594",
+        "Name": "英文聽力與閱讀(進階英文-初級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "206,207",
+        "Code": "B9D023L4",
+        "Teacher": "陳亞玲(Ya-lin Chen)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364595",
+        "Name": "職場英語 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "203,204",
+        "Code": "B9D023L0",
+        "Teacher": "陳國華(KUO-HUA CHEN)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364596",
+        "Name": "流行文化與英語學習(進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "303,304",
+        "Code": "B9D023X6",
+        "Teacher": "鍾正倫(Cheng-Lun Chung)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364597",
+        "Name": "看電影學英文（進階英文-中高級）",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "108,109",
+        "Code": "B9D023R9",
+        "Teacher": "林澄億(Chen-Yi Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364598",
+        "Name": "看短片學英文 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "203,204",
+        "Code": "B9D023L8",
+        "Teacher": "黃碧霞(Bih-shia Huang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d0364599",
+        "Name": "環保主題英文 (進階英文-中高級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "303,304",
+        "Code": "B9D023KR",
+        "Teacher": "蔣湧濤(Steve Chiang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036459a",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B9D01969",
+        "Teacher": "連族合()",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036459b",
+        "Name": "英文聽力與閱讀(進階英文-初級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "208,209",
+        "Code": "B9D023L4",
+        "Teacher": "陳亞玲(Ya-lin Chen)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036459c",
+        "Name": "英文文法與習作 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "306,307",
+        "Code": "B9D023KO",
+        "Teacher": "林甫雯(Fu-Wen Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036459d",
+        "Name": "英文聽力與閱讀 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "203,204",
+        "Code": "B9D023KN",
+        "Teacher": "陳麗芳(CHEN, LI-FANG)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036459e",
+        "Name": "職場英語 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "103,104",
+        "Code": "B9D023L0",
+        "Teacher": "林澄億(Chen-Yi Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d036459f",
+        "Name": "英語會話 (進階英文-中高級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "403,404",
+        "Code": "B9D023KW",
+        "Teacher": "蔣湧濤(Steve Chiang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645a0",
+        "Name": "航海英語會話(進階英文)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "101,102",
+        "Code": "B9D0232P",
+        "Teacher": "鍾正倫(Cheng-Lun Chung)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645a1",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B9D01969",
+        "Teacher": "丹尼爾伍德(Daniel Wood)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645a2",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D01969",
+        "Teacher": "丹尼爾伍德(Daniel Wood)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645a3",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B9D01969",
+        "Teacher": "李天苓(Andrianna Li)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645a4",
+        "Name": "英文精進",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "403,404",
+        "Code": "B9D03TVQ",
+        "Teacher": "李天苓(Andrianna Li)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645a5",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D01969",
+        "Teacher": "鍾正倫(Cheng-Lun Chung)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645a6",
+        "Name": "英文精進",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "203,204",
+        "Code": "B9D03TVQ",
+        "Teacher": "連族合()",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645a7",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B9D01969",
+        "Teacher": "蘇秋萍(Su,Chiu-Ping)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645a8",
+        "Name": "英文精進",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D03TVQ",
+        "Teacher": "林楚淇(Chu-chi Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645a9",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D01969",
+        "Teacher": "黃馨週(Hsin-Chou Huang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645aa",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B9D01969",
+        "Teacher": "林澄億(Chen-Yi Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645ab",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D01969",
+        "Teacher": "林綠芳(Lu-Fang Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645ac",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D01969",
+        "Teacher": "黃如瑄(Ju-Chuan Huang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645ad",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B9D01969",
+        "Teacher": "蔣湧濤(Steve Chiang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645ae",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B9D01969",
+        "Teacher": "闕郁軒(Yu-Hsuan Chueh)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645af",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B9D01969",
+        "Teacher": "鍾正倫(Cheng-Lun Chung)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645b0",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B9D01969",
+        "Teacher": "丹尼爾伍德(Daniel Wood)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645b1",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B9D01969",
+        "Teacher": "黃碧霞(Bih-shia Huang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645b2",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B9D01969",
+        "Teacher": "闕郁軒(Yu-Hsuan Chueh)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645b3",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B9D01969",
+        "Teacher": "徐健達(Hsu, Chien-Ta)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645b4",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B9D01969",
+        "Teacher": "林雅淑()",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645b5",
+        "Name": "航海英語會話(進階英文)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "403,404",
+        "Code": "B9D0232P",
+        "Teacher": "王鳳敏(Wang Fengmin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645b6",
+        "Name": "航海英語會話(進階英文)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "401,402",
+        "Code": "B9D0232P",
+        "Teacher": "王鳳敏(Wang Fengmin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645b7",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B9D01969",
+        "Teacher": "徐健達(Hsu, Chien-Ta)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645b8",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B9D01969",
+        "Teacher": "鍾正倫(Cheng-Lun Chung)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645b9",
+        "Name": "文創專業英語(進階英文)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "303,304",
+        "Code": "B9D023G5",
+        "Teacher": "林澄億(Chen-Yi Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645ba",
+        "Name": "英文文法與習作 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "106,107",
+        "Code": "B9D023KO",
+        "Teacher": "林甫雯(Fu-Wen Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645bb",
+        "Name": "英語會話 (進階英文-中高級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "106,107",
+        "Code": "B9D023KW",
+        "Teacher": "丹尼爾伍德(Daniel Wood)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645bc",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B9D01969",
+        "Teacher": "龔育緯(Kung, Yuh-wei )",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645bd",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B9D01969",
+        "Teacher": "鍾正倫(Cheng-Lun Chung)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645be",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D01969",
+        "Teacher": "蔣湧濤(Steve Chiang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645bf",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B9D01969",
+        "Teacher": "林甫雯(Fu-Wen Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645c0",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B9D01969",
+        "Teacher": "連族合()",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645c1",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D01969",
+        "Teacher": "林甫雯(Fu-Wen Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645c2",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B9D01969",
+        "Teacher": "林澄億(Chen-Yi Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645c3",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B9D01969",
+        "Teacher": "連族合()",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645c4",
+        "Name": "英文聽力與閱讀 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "208,209",
+        "Code": "B9D023KN",
+        "Teacher": "張家瑋(will)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645c5",
+        "Name": "英文聽力與閱讀 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "306,307",
+        "Code": "B9D023KN",
+        "Teacher": "林綠芳(Lu-Fang Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645c6",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B9D01969",
+        "Teacher": "林澄億(Chen-Yi Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645c7",
+        "Name": "英文文法 (進階英文-初級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "203,204",
+        "Code": "B9D023L3",
+        "Teacher": "林雅淑()",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645c8",
+        "Name": "網路英文（進階英文-中級）",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "206,207",
+        "Code": "B9D023KM",
+        "Teacher": "黃馨週(Hsin-Chou Huang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645c9",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B9D01969",
+        "Teacher": "陳國華(KUO-HUA CHEN)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645ca",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D01969",
+        "Teacher": "陳麗芳(CHEN, LI-FANG)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645cb",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B9D01969",
+        "Teacher": "陳麗芳(CHEN, LI-FANG)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645cc",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B9D01969",
+        "Teacher": "周利華(Li-Hua Chou)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645cd",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D01969",
+        "Teacher": "周利華(Li-Hua Chou)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645ce",
+        "Name": "電影與文化 (進階英文-中高級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "306,307",
+        "Code": "B9D023KS",
+        "Teacher": "鍾正倫(Cheng-Lun Chung)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645cf",
+        "Name": "英語演說 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "203,204",
+        "Code": "B9D023KV",
+        "Teacher": "丹尼爾伍德(Daniel Wood)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645d0",
+        "Name": "英文文法與習作(進階英文-初級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "303,304",
+        "Code": "B9D0249Q",
+        "Teacher": "林甫雯(Fu-Wen Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645d1",
+        "Name": "英語會話 (進階英文-中高級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "406,407",
+        "Code": "B9D023KW",
+        "Teacher": "丹尼爾伍德(Daniel Wood)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645d2",
+        "Name": "奇幻文學 (進階英文-中高級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "106,107",
+        "Code": "B9D023KU",
+        "Teacher": "鍾正倫(Cheng-Lun Chung)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645d3",
+        "Name": "流行文化與英語學習(進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "303,304",
+        "Code": "B9D023X6",
+        "Teacher": "鍾正倫(Cheng-Lun Chung)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645d4",
+        "Name": "英文(大一英文)",
+        "Credit": "2",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B9D01969",
+        "Teacher": "蘇秋萍(Su,Chiu-Ping)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645d5",
+        "Name": "經典神話與藝術（進階英文-中級）",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "203,204",
+        "Code": "B9D023Z3",
+        "Teacher": "薛梅(May Hsueh)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645d6",
+        "Name": "英文閱讀 (進階英文-中高級）",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "403,404",
+        "Code": "B9D024AA",
+        "Teacher": "丹尼爾伍德(Daniel Wood)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645d7",
+        "Name": "看短片學英文 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "203,204",
+        "Code": "B9D023L8",
+        "Teacher": "李天苓(Andrianna Li)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645d8",
+        "Name": "英文文法 (進階英文-初級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "503,504",
+        "Code": "B9D023L3",
+        "Teacher": "龔育緯(Kung, Yuh-wei )",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645d9",
+        "Name": "商用實務英文 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "101,102",
+        "Code": "B9D023KP",
+        "Teacher": "林楚淇(Chu-chi Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645da",
+        "Name": "看電影學英文（進階英文-中高級）",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "106,107",
+        "Code": "B9D023R9",
+        "Teacher": "林澄億(Chen-Yi Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645db",
+        "Name": "商用實務英文 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "203,204",
+        "Code": "B9D023KP",
+        "Teacher": "陳國華(KUO-HUA CHEN)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645dc",
+        "Name": "英文聽力與閱讀(進階英文-初級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "206,207",
+        "Code": "B9D023L4",
+        "Teacher": "陳亞玲(Ya-lin Chen)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645dd",
+        "Name": "會議英語 (進階英文-中級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "206,207",
+        "Code": "B9D023L5",
+        "Teacher": "張家瑋(will)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7b93e98e738d03645de",
+        "Name": "英語會話 (進階英文-中高級)",
+        "Credit": "2",
+        "Category": "選修(Elective Course)",
+        "Time": "106,107",
+        "Code": "B9D023KW",
+        "Teacher": "蔣湧濤(Steve Chiang)",
+        "Semester": "下學期"
+    }
+]
