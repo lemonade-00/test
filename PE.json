@@ -1,0 +1,1752 @@
+[
+    {
+        "_id": "63a6f7ee3e98e738d03645e1",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "506,507",
+        "Code": "B92K4G07",
+        "Teacher": "林子揚(Tzu-Yang Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645e2",
+        "Name": "桌球(中)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "308,309",
+        "Code": "B92B4G11",
+        "Teacher": "黃智能(Chih-Neng Huang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645e3",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B92J4G07",
+        "Teacher": "劉錦璋(Liu Gin Chang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645e4",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "406,407",
+        "Code": "B92J4G04",
+        "Teacher": "張少遜(Shaw-Shiun Chang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645e5",
+        "Name": "排球(中)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "308,309",
+        "Code": "B92C4G02",
+        "Teacher": "張建邦(Chien-Pang Chang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645e6",
+        "Name": "游泳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B92J4G19",
+        "Teacher": "張少遜(Shaw-Shiun Chang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645e7",
+        "Name": "獨木舟(中)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "406,407",
+        "Code": "B92A4G1K",
+        "Teacher": "陳建文(Chien-Wen Chen)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645e8",
+        "Name": "瑜珈",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B92A41ZP",
+        "Teacher": "陳虹羽(Chen, Hung-Yu)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645e9",
+        "Name": "帆船(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "306,307",
+        "Code": "B92B41IZ",
+        "Teacher": "張志維(CHANG,CHIH-WEI)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645ea",
+        "Name": "重量訓練",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "506,507",
+        "Code": "B92F4G65",
+        "Teacher": "張建邦(Chien-Pang Chang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645eb",
+        "Name": "帆船(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "308,309",
+        "Code": "B92C41IZ",
+        "Teacher": "張志維(CHANG,CHIH-WEI)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645ec",
+        "Name": "潛水",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "506,507",
+        "Code": "B92C4G31",
+        "Teacher": "葉海山(Yeh, Hae-San)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645ed",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "403,404",
+        "Code": "B92H4G07",
+        "Teacher": "陳文英(Wen Ing Chen)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645ee",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B92K4G04",
+        "Teacher": "許振明(Jen-Ming Shiu)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645ef",
+        "Name": "游泳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "206,207",
+        "Code": "B92E4G19",
+        "Teacher": "許振明(Jen-Ming Shiu)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645f0",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "401,402",
+        "Code": "B92H4G04",
+        "Teacher": "張少遜(Shaw-Shiun Chang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645f1",
+        "Name": "羽球(中)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "308,309",
+        "Code": "B92A4G05",
+        "Teacher": "張少遜(Shaw-Shiun Chang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645f2",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "101,102",
+        "Code": "B92A4G07",
+        "Teacher": "李孟樺(LEE MENG HUA)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645f3",
+        "Name": "桌球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "203,204",
+        "Code": "B92A4G10",
+        "Teacher": "林子揚(Tzu-Yang Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645f4",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B92B4G04",
+        "Teacher": "許振明(Jen-Ming Shiu)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645f5",
+        "Name": "籃球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B92B4G13",
+        "Teacher": "楊能顯(YANG,NENG HSIEN)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645f6",
+        "Name": "游泳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "108,109",
+        "Code": "B92B4G19",
+        "Teacher": "黃國銓()",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645f7",
+        "Name": "潛水",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B92A4G31",
+        "Teacher": "陳建文(Chien-Wen Chen)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645f8",
+        "Name": "籃球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "108,109",
+        "Code": "B92C4G13",
+        "Teacher": "蔡琪揚(Chi-Yang Tsai)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645f9",
+        "Name": "游泳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B92A4G19",
+        "Teacher": "張建邦(Chien-Pang Chang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645fa",
+        "Name": "潛水",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B92B4G31",
+        "Teacher": "陳建文(Chien-Wen Chen)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645fb",
+        "Name": "排球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B92B4G16",
+        "Teacher": "張建邦(Chien-Pang Chang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645fc",
+        "Name": "籃球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "101,102",
+        "Code": "B92A4G13",
+        "Teacher": "楊能顯(YANG,NENG HSIEN)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645fd",
+        "Name": "桌球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B92E4G10",
+        "Teacher": "吳政昆(ENG_NAME)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645fe",
+        "Name": "籃球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "206,207",
+        "Code": "B92E4G13",
+        "Teacher": "蔡琪揚(Chi-Yang Tsai)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d03645ff",
+        "Name": "太極拳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "101,102",
+        "Code": "B92A4G01",
+        "Teacher": "張少遜(Shaw-Shiun Chang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364600",
+        "Name": "桌球(中)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "306,307",
+        "Code": "B92A4G11",
+        "Teacher": "黃智能(Chih-Neng Huang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364601",
+        "Name": "獨木舟",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "106,107",
+        "Code": "B92A416S",
+        "Teacher": "張少遜(Shaw-Shiun Chang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364602",
+        "Name": "桌球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B92D4G10",
+        "Teacher": "吳政昆()",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364603",
+        "Name": "獨木舟",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "108,109",
+        "Code": "B92B416S",
+        "Teacher": "林季燕(Chi-Yen Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364604",
+        "Name": "有氧舞蹈",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "203,204",
+        "Code": "B92A4G0C",
+        "Teacher": "陳虹羽(Chen, Hung-Yu)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364605",
+        "Name": "帆船(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "206,207",
+        "Code": "B92A41IZ",
+        "Teacher": "林季燕(Chi-Yen Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364606",
+        "Name": "重量訓練",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "303,304",
+        "Code": "B92D4G65",
+        "Teacher": "陳建文(Chien-Wen Chen)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364607",
+        "Name": "游泳(中)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "106,107",
+        "Code": "B92A4G0F",
+        "Teacher": "黃智能(Chih-Neng Huang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364608",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "203,204",
+        "Code": "B92E4G04",
+        "Teacher": "蔡虔祿(TSAI CHINE-LU)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364609",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B92D4G04",
+        "Teacher": "蔡虔祿(TSAI CHINE-LU)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036460a",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "108,109",
+        "Code": "B92D4G07",
+        "Teacher": "林子揚(Tzu-Yang Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036460b",
+        "Name": "體育特別班",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "210,211",
+        "Code": "B9200G29",
+        "Teacher": "許振明(Jen-Ming Shiu)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036460c",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "206,207",
+        "Code": "B92E4G07",
+        "Teacher": "林子揚(Tzu-Yang Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036460d",
+        "Name": "重量訓練",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "206,207",
+        "Code": "B92C4G65",
+        "Teacher": "曹校章(Hsiao-Chang Tsao)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036460e",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "303,304",
+        "Code": "B92F4G04",
+        "Teacher": "林季燕(Chi-Yen Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036460f",
+        "Name": "游泳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "208,209",
+        "Code": "B92F4G19",
+        "Teacher": "許振明(Jen-Ming Shiu)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364610",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "306,307",
+        "Code": "B92G4G04",
+        "Teacher": "張少遜(Shaw-Shiun Chang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364611",
+        "Name": "游泳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "303,304",
+        "Code": "B92H4G19",
+        "Teacher": "喬淞璿(Yang Chang Pin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364612",
+        "Name": "排球(中)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "303,304",
+        "Code": "B92A4G02",
+        "Teacher": "張建邦(Chien-Pang Chang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364613",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "101,102",
+        "Code": "B92A4G04",
+        "Teacher": "許振明(Jen-Ming Shiu)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364614",
+        "Name": "游泳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "203,204",
+        "Code": "B92D4G19",
+        "Teacher": "林季燕(Chi-Yen Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364615",
+        "Name": "重量訓練",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B92A4G65",
+        "Teacher": "蔡琪揚(Chi-Yang Tsai)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364616",
+        "Name": "排球(中)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "306,307",
+        "Code": "B92B4G02",
+        "Teacher": "張建邦(Chien-Pang Chang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364617",
+        "Name": "桌球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "206,207",
+        "Code": "B92B4G10",
+        "Teacher": "洪堂魁(Hong, Tong-Kwi)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364618",
+        "Name": "重量訓練",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "203,204",
+        "Code": "B92B4G65",
+        "Teacher": "高士育(SHI-YU GAO )",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364619",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "106,107",
+        "Code": "B92C4G07",
+        "Teacher": "林子揚(Tzu-Yang Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036461a",
+        "Name": "排球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "506,507",
+        "Code": "B92C4G16",
+        "Teacher": "藍卉羚()",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036461b",
+        "Name": "游泳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B92C4G19",
+        "Teacher": "高士育(SHI-YU GAO )",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036461c",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "106,107",
+        "Code": "B92C4G04",
+        "Teacher": "黃國銓()",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036461d",
+        "Name": "肌力雕塑",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "106,107",
+        "Code": "B92A4G1E",
+        "Teacher": "林季燕(Chi-Yen Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036461e",
+        "Name": "重量訓練",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "403,404",
+        "Code": "B92E4G65",
+        "Teacher": "曹校章(Hsiao-Chang Tsao)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036461f",
+        "Name": "游泳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "301,302",
+        "Code": "B92G4G19",
+        "Teacher": "喬淞璿()",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364620",
+        "Name": "橄欖球",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "308,309",
+        "Code": "B92B4G1G",
+        "Teacher": "曹校章(Hsiao-Chang Tsao)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364621",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "208,209",
+        "Code": "B92F4G07",
+        "Teacher": "林子揚(Tzu-Yang Lin)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364622",
+        "Name": "排球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "106,107",
+        "Code": "B92A4G16",
+        "Teacher": "張建邦(Chien-Pang Chang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364623",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B92B4G07",
+        "Teacher": "李孟樺(LEE MENG HUA)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364624",
+        "Name": "游泳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "306,307",
+        "Code": "B92I4G19",
+        "Teacher": "曹校章(Hsiao-Chang Tsao)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364625",
+        "Name": "籃球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "203,204",
+        "Code": "B92D4G13",
+        "Teacher": "蔡琪揚(Chi-Yang Tsai)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364626",
+        "Name": "健美(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "208,209",
+        "Code": "B92A4G5A",
+        "Teacher": "洪堂魁(Hong, Tong-Kwi)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364627",
+        "Name": "游泳(中)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "406,407",
+        "Code": "B92B4G0F",
+        "Teacher": "黃智能(Chih-Neng Huang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364628",
+        "Name": "獨木舟",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "403,404",
+        "Code": "B92D416S",
+        "Teacher": "陳建文(Chien-Wen Chen)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364629",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B92I4G07",
+        "Teacher": "劉錦璋(Liu Gin Chang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036462a",
+        "Name": "潛水",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "508,509",
+        "Code": "B92D4G31",
+        "Teacher": "葉海山(Yeh, Hae-San)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036462b",
+        "Name": "獨木舟",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "401,402",
+        "Code": "B92C416S",
+        "Teacher": "陳建文(Chien-Wen Chen)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036462c",
+        "Name": "游泳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B92K4G19",
+        "Teacher": "張少遜(Shaw-Shiun Chang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036462d",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "403,404",
+        "Code": "B92I4G04",
+        "Teacher": "張少遜(Shaw-Shiun Chang)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036462e",
+        "Name": "瑜珈",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "401,402",
+        "Code": "B92B41ZP",
+        "Teacher": "陳虹羽(Chen, Hung-Yu)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036462f",
+        "Name": "有氧舞蹈",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "403,404",
+        "Code": "B92B4G0C",
+        "Teacher": "陳虹羽(Chen, Hung-Yu)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364630",
+        "Name": "橄欖球",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "208,209",
+        "Code": "B92A4G1G",
+        "Teacher": "曹校章(Hsiao-Chang Tsao)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364631",
+        "Name": "籃球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "401,402",
+        "Code": "B92F4G13",
+        "Teacher": "喬淞璿()",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364632",
+        "Name": "排球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "508,509",
+        "Code": "B92D4G16",
+        "Teacher": "藍卉羚()",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364633",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B92L4G04",
+        "Teacher": "許振明(Jen-Ming Shiu)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364634",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "401,402",
+        "Code": "B92G4G07",
+        "Teacher": "陳文英(Wen Ing Chen)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364635",
+        "Name": "健美塑身(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "301,302",
+        "Code": "B92A4G61",
+        "Teacher": "陳建文(Chien-Wen Chen)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364636",
+        "Name": "籃球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "403,404",
+        "Code": "B92G4G13",
+        "Teacher": "喬淞璿()",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364637",
+        "Name": "籃球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "406,407",
+        "Code": "B92H4G13",
+        "Teacher": "蔡琪揚(Chi-Yang Tsai)",
+        "Semester": "上學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364638",
+        "Name": "健康體適能",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "310,311",
+        "Code": "B92A53KJ",
+        "Teacher": "劉燕楓(LIU YEN FENG)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364639",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B92L5G04",
+        "Teacher": "許振明(Jen-Ming Shiu)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036463a",
+        "Name": "橄欖球",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "308,309",
+        "Code": "B92B5G1G",
+        "Teacher": "曹校章(Hsiao-Chang Tsao)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036463b",
+        "Name": "排球(中)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "308,309",
+        "Code": "B92C5G02",
+        "Teacher": "張建邦(Chien-Pang Chang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036463c",
+        "Name": "重量訓練",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "506,507",
+        "Code": "B92H5G65",
+        "Teacher": "張建邦(Chien-Pang Chang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036463d",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "506,507",
+        "Code": "B92K5G07",
+        "Teacher": "林子揚(Tzu-Yang Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036463e",
+        "Name": "籃球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "401,402",
+        "Code": "B92F5G13",
+        "Teacher": "楊能顯(YANG,NENG HSIEN)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036463f",
+        "Name": "籃球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "403,404",
+        "Code": "B92G5G13",
+        "Teacher": "楊能顯(YANG,NENG HSIEN)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364640",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "203,204",
+        "Code": "B92E5G04",
+        "Teacher": "蔡虔祿(ENG_NAME)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364641",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B92D5G04",
+        "Teacher": "蔡虔祿(JAW JZAY SHENG)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364642",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "108,109",
+        "Code": "B92D5G07",
+        "Teacher": "林子揚(Tzu-Yang Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364643",
+        "Name": "排球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "508,509",
+        "Code": "B92D5G16",
+        "Teacher": "藍卉羚()",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364644",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B92K5G04",
+        "Teacher": "許振明(Jen-Ming Shiu)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364645",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "406,407",
+        "Code": "B92J5G04",
+        "Teacher": "張少遜(Shaw-Shiun Chang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364646",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B92B5G07",
+        "Teacher": "李孟樺(LEE MENG HUA)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364647",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "403,404",
+        "Code": "B92H5G07",
+        "Teacher": "陳文英(Wen Ing Chen)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364648",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "401,402",
+        "Code": "B92G5G07",
+        "Teacher": "陳文英(Wen Ing Chen)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364649",
+        "Name": "潛水",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "508,509",
+        "Code": "B92D5G31",
+        "Teacher": "葉海山(Yeh, Hae-San)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036464a",
+        "Name": "潛水",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "506,507",
+        "Code": "B92C5G31",
+        "Teacher": "葉海山(Yeh, Hae-San)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036464b",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "101,102",
+        "Code": "B92A5G07",
+        "Teacher": "李孟樺(LEE MENG HUA)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036464c",
+        "Name": "籃球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B92B5G13",
+        "Teacher": "喬淞璿(ENG_NAME)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036464d",
+        "Name": "籃球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "101,102",
+        "Code": "B92A5G13",
+        "Teacher": "喬淞璿(ENG_NAME)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036464e",
+        "Name": "桌球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B92C5G10",
+        "Teacher": "吳政昆(ENG_NAME)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036464f",
+        "Name": "健美(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "208,209",
+        "Code": "B92A5G5A",
+        "Teacher": "洪堂魁(Hong, Tong-Kwi)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364650",
+        "Name": "游泳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "108,109",
+        "Code": "B92B5G19",
+        "Teacher": "黃國銓(ENG_NAME)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364651",
+        "Name": "健美塑身(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "301,302",
+        "Code": "B92A5G61",
+        "Teacher": "陳建文(Chien-Wen Chen)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364652",
+        "Name": "游泳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B92J5G19",
+        "Teacher": "張少遜(Shaw-Shiun Chang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364653",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "106,107",
+        "Code": "B92C5G04",
+        "Teacher": "黃國銓(ENG_NAME)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364654",
+        "Name": "游泳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B92A5G19",
+        "Teacher": "張建邦(Chien-Pang Chang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364655",
+        "Name": "帆船(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "306,307",
+        "Code": "B92B51IZ",
+        "Teacher": "張志維(CHANG,CHIH-WEI)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364656",
+        "Name": "帆船(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "308,309",
+        "Code": "B92C51IZ",
+        "Teacher": "張志維(CHANG,CHIH-WEI)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364657",
+        "Name": "游泳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "208,209",
+        "Code": "B92F5G19",
+        "Teacher": "許振明(Jen-Ming Shiu)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364658",
+        "Name": "游泳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B92C5G19",
+        "Teacher": "高士育(SHI-YU GAO )",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364659",
+        "Name": "獨木舟",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "108,109",
+        "Code": "B92B516S",
+        "Teacher": "林季燕(Chi-Yen Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036465a",
+        "Name": "肌力雕塑",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "106,107",
+        "Code": "B92A5G1E",
+        "Teacher": "林季燕(Chi-Yen Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036465b",
+        "Name": "游泳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "301,302",
+        "Code": "B92G5G19",
+        "Teacher": "喬淞璿(Yang Chang Pin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036465c",
+        "Name": "有氧舞蹈",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "203,204",
+        "Code": "B92A5G0C",
+        "Teacher": "陳虹羽(Chen, Hung-Yu)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036465d",
+        "Name": "瑜珈",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "201,202",
+        "Code": "B92A51ZP",
+        "Teacher": "陳虹羽(Chen, Hung-Yu)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036465e",
+        "Name": "游泳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "203,204",
+        "Code": "B92D5G19",
+        "Teacher": "林季燕(Chi-Yen Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036465f",
+        "Name": "帆船(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "206,207",
+        "Code": "B92A51IZ",
+        "Teacher": "林季燕(Chi-Yen Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364660",
+        "Name": "重量訓練",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "303,304",
+        "Code": "B92D5G65",
+        "Teacher": "陳建文(Chien-Wen Chen)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364661",
+        "Name": "潛水",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B92A5G31",
+        "Teacher": "陳建文(Chien-Wen Chen)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364662",
+        "Name": "獨木舟",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "401,402",
+        "Code": "B92C516S",
+        "Teacher": "陳建文(Chien-Wen Chen)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364663",
+        "Name": "潛水",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B92B5G31",
+        "Teacher": "陳建文(Chien-Wen Chen)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364664",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B92B5G04",
+        "Teacher": "許振明(Jen-Ming Shiu)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364665",
+        "Name": "游泳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "206,207",
+        "Code": "B92E5G19",
+        "Teacher": "許振明(Jen-Ming Shiu)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364666",
+        "Name": "游泳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B92I5G19",
+        "Teacher": "張少遜(Shaw-Shiun Chang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364667",
+        "Name": "獨木舟(中)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "406,407",
+        "Code": "B92A5G1K",
+        "Teacher": "陳建文(Chien-Wen Chen)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364668",
+        "Name": "獨木舟",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "403,404",
+        "Code": "B92D516S",
+        "Teacher": "陳建文(Chien-Wen Chen)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364669",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "106,107",
+        "Code": "B92C5G07",
+        "Teacher": "林子揚(Tzu-Yang Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036466a",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "101,102",
+        "Code": "B92A5G04",
+        "Teacher": "許振明(Jen-Ming Shiu)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036466b",
+        "Name": "重量訓練",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "306,307",
+        "Code": "B92E5G65",
+        "Teacher": "曹校章(Hsiao-Chang Tsao)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036466c",
+        "Name": "游泳(中)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "106,107",
+        "Code": "B92A5G0F",
+        "Teacher": "黃智能(Chih-Neng Huang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036466d",
+        "Name": "桌球(中)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "306,307",
+        "Code": "B92A5G11",
+        "Teacher": "黃智能(Chih-Neng Huang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036466e",
+        "Name": "桌球(中)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "308,309",
+        "Code": "B92B5G11",
+        "Teacher": "黃智能(Chih-Neng Huang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036466f",
+        "Name": "游泳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "303,304",
+        "Code": "B92H5G19",
+        "Teacher": "喬淞璿(JAW JZAY SHENG)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364670",
+        "Name": "重量訓練",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "203,204",
+        "Code": "B92B5G65",
+        "Teacher": "高士育(SHI-YU GAO )",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364671",
+        "Name": "重量訓練",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "206,207",
+        "Code": "B92C5G65",
+        "Teacher": "曹校章(Hsiao-Chang Tsao)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364672",
+        "Name": "籃球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "108,109",
+        "Code": "B92C5G13",
+        "Teacher": "蔡琪揚(Chi-Yang Tsai)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364673",
+        "Name": "游泳(中)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "406,407",
+        "Code": "B92B5G0F",
+        "Teacher": "黃智能(Chih-Neng Huang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364674",
+        "Name": "籃球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "206,207",
+        "Code": "B92E5G13",
+        "Teacher": "蔡琪揚(Chi-Yang Tsai)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364675",
+        "Name": "重量訓練",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "103,104",
+        "Code": "B92A5G65",
+        "Teacher": "蔡琪揚(Chi-Yang Tsai)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364676",
+        "Name": "籃球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "203,204",
+        "Code": "B92D5G13",
+        "Teacher": "蔡琪揚(Chi-Yang Tsai)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364677",
+        "Name": "桌球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B92B5G10",
+        "Teacher": "吳政昆(ENG_NAME)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364678",
+        "Name": "桌球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "206,207",
+        "Code": "B92A5G10",
+        "Teacher": "洪堂魁(Hong, Tong-Kwi)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364679",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "206,207",
+        "Code": "B92E5G07",
+        "Teacher": "林子揚(Tzu-Yang Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036467a",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "208,209",
+        "Code": "B92F5G07",
+        "Teacher": "林子揚(Tzu-Yang Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036467b",
+        "Name": "網球(中)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "203,204",
+        "Code": "B92A5G08",
+        "Teacher": "林子揚(Tzu-Yang Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036467c",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "401,402",
+        "Code": "B92H5G04",
+        "Teacher": "張少遜(Shaw-Shiun Chang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036467d",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "303,304",
+        "Code": "B92F5G04",
+        "Teacher": "林季燕(Chi-Yen Lin)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036467e",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "306,307",
+        "Code": "B92G5G04",
+        "Teacher": "張少遜(Shaw-Shiun Chang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036467f",
+        "Name": "太極拳(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "101,102",
+        "Code": "B92A5G01",
+        "Teacher": "張少遜(Shaw-Shiun Chang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364680",
+        "Name": "羽球(中)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "308,309",
+        "Code": "B92A5G05",
+        "Teacher": "張少遜(Shaw-Shiun Chang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364681",
+        "Name": "獨木舟",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "106,107",
+        "Code": "B92A516S",
+        "Teacher": "張少遜(Shaw-Shiun Chang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364682",
+        "Name": "羽球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "403,404",
+        "Code": "B92I5G04",
+        "Teacher": "張少遜(Shaw-Shiun Chang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364683",
+        "Name": "排球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "506,507",
+        "Code": "B92C5G16",
+        "Teacher": "藍卉羚()",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364684",
+        "Name": "排球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "106,107",
+        "Code": "B92A5G16",
+        "Teacher": "張建邦(Chien-Pang Chang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364685",
+        "Name": "排球(中)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "303,304",
+        "Code": "B92A5G02",
+        "Teacher": "張建邦(Chien-Pang Chang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364686",
+        "Name": "適應體育班",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "210,211",
+        "Code": "B92A5G1H",
+        "Teacher": "許振明(Jen-Ming Shiu)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364687",
+        "Name": "排球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B92B5G16",
+        "Teacher": "張建邦(Chien-Pang Chang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364688",
+        "Name": "重量訓練",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "406,407",
+        "Code": "B92G5G65",
+        "Teacher": "蔡琪揚(Chi-Yang Tsai)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d0364689",
+        "Name": "排球(中)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "306,307",
+        "Code": "B92B5G02",
+        "Teacher": "張建邦(Chien-Pang Chang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036468a",
+        "Name": "重量訓練",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "403,404",
+        "Code": "B92F5G65",
+        "Teacher": "曹校章(Hsiao-Chang Tsao)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036468b",
+        "Name": "瑜珈",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "401,402",
+        "Code": "B92B51ZP",
+        "Teacher": "陳虹羽(Chen, Hung-Yu)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036468c",
+        "Name": "有氧舞蹈",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "403,404",
+        "Code": "B92B5G0C",
+        "Teacher": "陳虹羽(Chen, Hung-Yu)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036468d",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "501,502",
+        "Code": "B92I5G07",
+        "Teacher": "劉錦璋(Liu Gin Chang)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036468e",
+        "Name": "橄欖球",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "208,209",
+        "Code": "B92A5G1G",
+        "Teacher": "曹校章(Hsiao-Chang Tsao)",
+        "Semester": "下學期"
+    },
+    {
+        "_id": "63a6f7ee3e98e738d036468f",
+        "Name": "網球(初)",
+        "Credit": "0",
+        "Category": "必修(Required Course)",
+        "Time": "503,504",
+        "Code": "B92J5G07",
+        "Teacher": "劉錦璋(Liu Gin Chang)",
+        "Semester": "下學期"
+    }
+]
