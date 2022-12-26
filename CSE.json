@@ -66,17 +66,6 @@
         "Semester": "下學期"
     },
     {
-        "_id": "63a6f8053e98e738d0364697",
-        "Name": "服務學習_愛校服務(Ⅱ)",
-        "Credit": "0",
-        "Grade": "1B",
-        "Category": "T",
-        "Time": "505",
-        "Code": "B5701NNY",
-        "Teacher": "林致宇(Chih-Yu Lin)",
-        "Semester": "下學期"
-    },
-    {
         "_id": "63a6f8053e98e738d0364698",
         "Name": "28-資工系專題(一)",
         "Credit": "3",
@@ -437,17 +426,6 @@
         "Time": "202,203,204",
         "Code": "B57031EC",
         "Teacher": "林韓禹(Han-Yu Lin)",
-        "Semester": "下學期"
-    },
-    {
-        "_id": "63a6f8053e98e738d03646b9",
-        "Name": "服務學習_愛校服務(Ⅱ)",
-        "Credit": "0",
-        "Grade": "1A",
-        "Category": "T",
-        "Time": "405",
-        "Code": "B5701NNY",
-        "Teacher": "林清池(Ching-Chi Lin)",
         "Semester": "下學期"
     },
     {
@@ -1154,17 +1132,7 @@
         "Teacher": "張雅惠(Ya-Hui Chang)",
         "Semester": "上學期"
     },
-    {
-        "_id": "63a6f8053e98e738d03646fa",
-        "Name": "服務學習_愛校服務(I)",
-        "Credit": "0",
-        "Grade": "1A",
-        "Category": "T",
-        "Time": "405",
-        "Code": "B5701NNX",
-        "Teacher": "丁培毅(Pei-Yih Ting)",
-        "Semester": "上學期"
-    },
+    
     {
         "_id": "63a6f8053e98e738d03646fb",
         "Name": "資訊安全實務與管理",
@@ -1297,17 +1265,7 @@
         "Teacher": "葉春超(Chun-Chao Yeh)",
         "Semester": "上學期"
     },
-    {
-        "_id": "63a6f8053e98e738d0364707",
-        "Name": "服務學習_愛校服務(I)",
-        "Credit": "0",
-        "Grade": "1B",
-        "Category": "T",
-        "Time": "505",
-        "Code": "B5701NNX",
-        "Teacher": "翁世光(Shyh-Kuang Ueng)",
-        "Semester": "上學期"
-    },
+    
     {
         "_id": "63a6f8053e98e738d0364708",
         "Name": "微積分",
